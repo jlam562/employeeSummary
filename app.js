@@ -7,3 +7,19 @@ const Intern = require('./employees/Intern.js')
 
 let employees = []
 
+const employQuestions = [
+  'What is your name?:',
+  'What is your ID?:',
+  'What is your email?:',
+  'What is your GitHub username?:',
+  'What school do you go to?:'
+]
+
+const mngrQuestions = [
+  'What is your name?:',
+  'What is your ID?:',
+  'What is your email?:',
+  'What is your office number?:',
+  'How many employees do you have?:',
+  'How many interns do you have?:'
+]
